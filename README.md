@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi! I'm Deep Dev
 
-<!--
-**deepcodecreate/deepcodecreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer ☕ | Open Source Lover 💡
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- 💻 Java| XML
+- 🌐 API | Retrofit | Volley
+- 🔐 Security | VPN | DNS | VpnService
+- 📦 Git | GitHub |  CI/CD
+
+---
+
+## 📱 Projects
+🔹 [DNS Changer](https://github.com/deepcodecreate/Dc_Dns_Changer) 
+
+---
+
+## ✉️ Contact me
+- Telegram: [@maqhooor](https://t.me/maqhooor)
+- Gmail: deepcodesup@gmail.com
+
+---
+
+> "Coding is not just a language, it's a mindset." 🧠
