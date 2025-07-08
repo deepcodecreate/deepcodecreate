@@ -18,7 +18,8 @@ Android Developer ☕ | Open Source Lover 💡
 ---
 
 ## ✉️ Contact me
-- Telegram: [@maqhooor](https://t.me/maqhooor)
+- Telegram Channel:[@deepcodecreate](https://t.me/deepcodecreate)
+- Telegram Me:[@maqhooor](https://t.me/maqhooor)
 - Gmail: deepcodesup@gmail.com
 
 ---
