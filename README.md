@@ -13,7 +13,7 @@ Android Developer ☕ | Open Source Lover 💡
 ---
 
 ## 📱 Projects
-🔹 [DNS Changer](https://github.com/deepcodecreate/Dc_Dns_Changer) 
+🔹 [DNS Changer](https://github.com/deepcodecreate/Dc-Dns-Changer) 
 
 ---
 
