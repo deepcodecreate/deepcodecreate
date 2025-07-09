@@ -24,4 +24,4 @@ Android Developer ☕ | Open Source Lover 💡
 
 ---
 
-> ####"Coding is not just a language, it's a mindset." 🧠
+> #### "Coding is not just a language, it's a mindset." 🧠
