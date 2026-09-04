@@ -83,11 +83,6 @@ Android DNS changer with UDP · TCP · DoT · DoH, gaming DNS catalog, Material 
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=deepcodecreate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F8D866&icon_color=F8D866&text_color=C9D1D9" alt="Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepcodecreate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F8D866&text_color=C9D1D9" alt="Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepcodecreate&theme=tokyonight&hide_border=true&background=0D1117&ring=F8D866&fire=F8D866&currStreakLabel=F8D866&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
 </p>
 
