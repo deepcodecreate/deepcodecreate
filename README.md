@@ -13,12 +13,11 @@
   </div>
 
   <p>
-    <a href="https://t.me/deepcodecreate" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="42" style="border-radius:8px;"/>
+    <a href="https://t.me/deepcodecreate" style="text-decoration:none; margin:0 6px;">
+      <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="44" style="border-radius:22px;"/>
     </a>
-    &nbsp;&nbsp;
-    <a href="mailto:deepcodesup@gmail.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="42" style="border-radius:8px;"/>
+    <a href="mailto:deepcodesup@gmail.com" style="text-decoration:none; margin:0 6px;">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="44" style="border-radius:22px;"/>
     </a>
   </p>
 
