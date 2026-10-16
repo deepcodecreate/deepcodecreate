@@ -39,7 +39,7 @@
   <tr>
     <td width="72" align="center">
       <a href="https://github.com/deepcodecreate/Terbian-Debian-For-Android">
-        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='108' height='108' viewBox='0 0 108 108'%3E%3Crect width='108' height='108' rx='24' fill='%23201F25'/%3E%3Cg transform='translate(54,54) scale(0.078)'%3E%3Cpath d='M590,828 C420,810 320,640 335,520 C350,400 450,330 580,330 C690,330 748,430 742,540 C735,650 650,700 565,670 C495,680 465,620 475,555 C485,495 545,455 600,468 C640,478 655,520 650,550' fill='none' stroke='%236B1A33' stroke-width='34' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M362,318 L540,497 L312,715' fill='none' stroke='%23F6F6F6' stroke-width='96' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M590,744 L830,744' fill='none' stroke='%23F6F6F6' stroke-width='96' stroke-linecap='round'/%3E%3C/g%3E%3C/svg%3E" width="52" height="52" style="border-radius:12px" alt="Terbian"/>
+        <img src="https://raw.githubusercontent.com/deepcodecreate/Terbian-Debian-For-Android/main/app/src/main/res/drawable/ic_terbian_foreground.xml" width="52" height="52" style="border-radius:12px; background:#201F25; padding:6px" alt="Terbian"/>
       </a>
     </td>
     <td>
@@ -50,7 +50,7 @@
   <tr>
     <td width="72" align="center">
       <a href="https://github.com/deepcodecreate/Keyline">
-        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='108' height='108' viewBox='0 0 108 108'%3E%3Crect width='108' height='108' rx='24' fill='%234A55C9'/%3E%3Cpath fill='%23FFFFFF' d='M30,38h48c3.3,0 6,2.7 6,6v20c0,3.3 -2.7,6 -6,6H30c-3.3,0 -6,-2.7 -6,-6V44c0,-3.3 2.7,-6 6,-6z'/%3E%3Cpath fill='%231A73E8' d='M38,50h6v6h-6zM50,50h6v6h-6zM62,50h6v6h-6zM42,60h24v4h-24z'/%3E%3C/svg%3E" width="52" height="52" style="border-radius:12px" alt="Keyline"/>
+        <img src="https://raw.githubusercontent.com/deepcodecreate/Keyline/main/app/src/main/res/drawable/ic_launcher_foreground.xml" width="52" height="52" style="border-radius:12px; background:#4A55C9; padding:6px" alt="Keyline"/>
       </a>
     </td>
     <td>
