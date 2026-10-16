@@ -8,6 +8,6 @@
 
 <img src="https://skillicons.dev/icons?i=linux,bash,java,kotlin,dart,flutter,git&theme=dark" height="32"/>
 
-<sub><i>Architecting secure connections, one line of code at a time.</i></sub>
+<sub>Architecting secure connections, one line of code at a time.</sub>
 
 </div>
