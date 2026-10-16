@@ -1,103 +1,80 @@
-<h1 align="center">Deepcode · amircoder</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F8D866&center=true&vCenter=true&width=520&lines=Android+%26+Network+Engineer;DNS+%C2%B7+VPN+%C2%B7+Proxy+Builder;Building+secure+fast+connections" alt="Typing SVG" />
+  <b>Android & Network Engineer</b><br>
+  Building fast and secure networking tools
 </p>
 
 <p align="center">
-  <b>I build secure, fast networking tools — from DNS changers to proxy & VPN utilities.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/deepcodecreate">
-    <img src="https://img.shields.io/badge/GitHub-deepcodecreate-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/deepcodecreate">
-    <img src="https://img.shields.io/badge/Telegram-deepcodecreate-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:deepcodesup@gmail.com">
-    <img src="https://img.shields.io/badge/Email-deepcodesup@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://github.com/deepcodecreate"><img src="https://img.shields.io/badge/GitHub-deepcodecreate-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://t.me/deepcodecreate"><img src="https://img.shields.io/badge/Telegram-deepcodecreate-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:deepcodesup@gmail.com"><img src="https://img.shields.io/badge/Email-deepcodesup@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### About
+### Projects
 
-Android & network developer focused on **DNS, VPN, proxy protocols, and secure tunneling**.  
-I design practical tools that stay fast under real-world network conditions — including restricted environments.
-
-- Building Android network utilities end-to-end  
-- Working with UDP / TCP / DoT / DoH and local VPN services  
-- Exploring routing, custom resolvers, and encrypted DNS  
-- Coding anywhere, including mobile-first environments  
+<table>
+  <tr>
+    <td width="72" align="center">
+      <a href="https://github.com/deepcodecreate/Dc-Dns-Changer">
+        <img src="https://raw.githubusercontent.com/deepcodecreate/Dc-Dns-Changer/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="52" height="52" style="border-radius:12px" alt="DC DNS Changer"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/deepcodecreate/Dc-Dns-Changer">DC DNS Changer</a></b><br>
+      Fast DNS changer with UDP · TCP · DoT · DoH, live ping & Material themes
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <a href="https://github.com/deepcodecreate/Dc-Proxy-Share">
+        <img src="https://raw.githubusercontent.com/deepcodecreate/Dc-Proxy-Share/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="52" height="52" style="border-radius:12px" alt="DC Proxy Share"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/deepcodecreate/Dc-Proxy-Share">DC Proxy Share</a></b><br>
+      Share active VPN/TUN connection over Hotspot via HTTP & SOCKS proxy
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <a href="https://github.com/deepcodecreate/Terbian-Debian-For-Android">
+        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='108' height='108' viewBox='0 0 108 108'%3E%3Crect width='108' height='108' rx='24' fill='%23201F25'/%3E%3Cg transform='translate(54,54) scale(0.078)'%3E%3Cpath d='M590,828 C420,810 320,640 335,520 C350,400 450,330 580,330 C690,330 748,430 742,540 C735,650 650,700 565,670 C495,680 465,620 475,555 C485,495 545,455 600,468 C640,478 655,520 650,550' fill='none' stroke='%236B1A33' stroke-width='34' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M362,318 L540,497 L312,715' fill='none' stroke='%23F6F6F6' stroke-width='96' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M590,744 L830,744' fill='none' stroke='%23F6F6F6' stroke-width='96' stroke-linecap='round'/%3E%3C/g%3E%3C/svg%3E" width="52" height="52" style="border-radius:12px" alt="Terbian"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/deepcodecreate/Terbian-Debian-For-Android">Terbian</a></b><br>
+      Full Debian environment + native terminal on Android via PRoot
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <a href="https://github.com/deepcodecreate/Keyline">
+        <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='108' height='108' viewBox='0 0 108 108'%3E%3Crect width='108' height='108' rx='24' fill='%234A55C9'/%3E%3Cpath fill='%23FFFFFF' d='M30,38h48c3.3,0 6,2.7 6,6v20c0,3.3 -2.7,6 -6,6H30c-3.3,0 -6,-2.7 -6,-6V44c0,-3.3 2.7,-6 6,-6z'/%3E%3Cpath fill='%231A73E8' d='M38,50h6v6h-6zM50,50h6v6h-6zM62,50h6v6h-6zM42,60h24v4h-24z'/%3E%3C/svg%3E" width="52" height="52" style="border-radius:12px" alt="Keyline"/>
+      </a>
+    </td>
+    <td>
+      <b><a href="https://github.com/deepcodecreate/Keyline">Keyline</a></b><br>
+      Privacy-first multilingual keyboard with RTL support, floating mode & translator
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Tech Stack
+### Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-    <img src="https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DNS-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DoH%2FDoT-2EA44F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VPN-critical?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/DNS-Networking-0A66C2?style=for-the-badge" alt="DNS"/>
-  <img src="https://img.shields.io/badge/DoH%20%2F%20DoT-Encrypted%20DNS-2EA44F?style=for-the-badge" alt="DoH DoT"/>
-  <img src="https://img.shields.io/badge/VPN-Tunneling-critical?style=for-the-badge" alt="VPN"/>
-  <img src="https://img.shields.io/badge/WireGuard-881797?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
-  <img src="https://img.shields.io/badge/V2Ray-Proxy-111111?style=for-the-badge" alt="V2Ray"/>
-</p>
-
----
-
-### Featured Project
-
-**[DC DNS Changer](https://github.com/deepcodecreate/Dc-Dns-Changer)**  
-Android DNS changer with UDP · TCP · DoT · DoH, gaming DNS catalog, Material themes, live ping, and bilingual UI.
-
-<p align="center">
-  <a href="https://github.com/deepcodecreate/Dc-Dns-Changer">
-    <img src="https://img.shields.io/github/stars/deepcodecreate/Dc-Dns-Changer?style=for-the-badge&logo=github" alt="Stars"/>
-  </a>
-  <a href="https://github.com/deepcodecreate/Dc-Dns-Changer">
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge" alt="License"/>
-  </a>
-</p>
-
----
-
-### Currently
-
-- Shipping advanced proxy & secure networking tools for Android  
-- Deep diving into custom DNS routing and encrypted resolvers  
-- Optimizing local VPN / TUN pipelines for low latency  
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepcodecreate&theme=tokyonight&hide_border=true&background=0D1117&ring=F8D866&fire=F8D866&currStreakLabel=F8D866&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
-</p>
-
----
-
-### Contact
-
-| Channel | Link |
-|--------|------|
-| GitHub | [deepcodecreate](https://github.com/deepcodecreate) |
-| Telegram | [@deepcodecreate](https://t.me/deepcodecreate) |
-| Email | [deepcodesup@gmail.com](mailto:deepcodesup@gmail.com) |
-
 ---
 
 <p align="center">
-  <i>Building connections that stay fast and secure.</i>
+  <i>Fast connections. Secure tunnels. Clean code.</i>
 </p>
