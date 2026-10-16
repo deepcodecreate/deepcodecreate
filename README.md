@@ -1,29 +1,13 @@
-<div align="center">
+<div align="left">
 
-<h1>Hello, I'm <a href="https://github.com/deepcodecreate">deepcodecreate</a></h1>
+###### Hello, I'm [deepcodecreate](https://github.com/deepcodecreate)
+<sub>Android & Network Engineer</sub>
 
-<h3>Android & Network Engineer</h3>
+<a href="https://t.me/deepcodecreate"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117" height="26"/></a>
+<a href="mailto:deepcodesup@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" height="26"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:30363d,100:0d1117&height=2" width="300"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,java,kotlin,dart,flutter,git&theme=dark" height="32"/>
 
-<p>
-  <a href="https://t.me/deepcodecreate">
-    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:deepcodesup@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40"/>
-  </a>
-</p>
-
-<br>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,java,kotlin,dart,flutter,git&theme=dark" height="48"/>
-</p>
-
-<br>
-
-<p><i>Architecting secure connections,<br>one line of code at a time.</i></p>
+<sub><i>Architecting secure connections, one line of code at a time.</i></sub>
 
 </div>
